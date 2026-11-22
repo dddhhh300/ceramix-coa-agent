@@ -1,0 +1,994 @@
+[
+  {
+    "coa_id": "COA_001",
+    "lot_id": "LOT-2026-001",
+    "date": "2026-10-01",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_001.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.486,
+      "bet_m2g": 6.58,
+      "fe_ppm": 61.0,
+      "moisture_wt": 0.19
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.357,
+    "true_d50_cpk": 3.169
+  },
+  {
+    "coa_id": "COA_002",
+    "lot_id": "LOT-2026-002",
+    "date": "2026-10-02",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_002.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.512,
+      "bet_m2g": 6.4,
+      "fe_ppm": 52.0,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.355,
+    "true_d50_cpk": 3.118
+  },
+  {
+    "coa_id": "COA_003",
+    "lot_id": "LOT-2026-003",
+    "date": "2026-10-03",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_003.txt",
+    "scenario_tag": "spec_fail_fe",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.498,
+      "bet_m2g": 6.5,
+      "fe_ppm": 132.5,
+      "moisture_wt": 0.24
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "fe_ppm"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.505,
+    "true_d50_cpk": 3.252
+  },
+  {
+    "coa_id": "COA_004",
+    "lot_id": "LOT-2026-004",
+    "date": "2026-10-04",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_004.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.506,
+      "bet_m2g": 6.37,
+      "fe_ppm": 35.4,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.256,
+    "true_d50_cpk": 3.217
+  },
+  {
+    "coa_id": "COA_005",
+    "lot_id": "LOT-2026-005",
+    "date": "2026-10-05",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_005.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.478,
+      "bet_m2g": 6.52,
+      "fe_ppm": 44.1,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.383,
+    "true_d50_cpk": 2.859
+  },
+  {
+    "coa_id": "COA_006",
+    "lot_id": "LOT-2026-006",
+    "date": "2026-10-06",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_006.txt",
+    "scenario_tag": "spec_fail_moisture",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.518,
+      "bet_m2g": 6.48,
+      "fe_ppm": 41.9,
+      "moisture_wt": 0.68
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "moisture_wt"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.507,
+    "true_d50_cpk": 2.71
+  },
+  {
+    "coa_id": "COA_007",
+    "lot_id": "LOT-2026-007",
+    "date": "2026-10-07",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_007.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.494,
+      "bet_m2g": 6.67,
+      "fe_ppm": 46.4,
+      "moisture_wt": 0.18
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.175,
+    "true_d50_cpk": 2.928
+  },
+  {
+    "coa_id": "COA_008",
+    "lot_id": "LOT-2026-008",
+    "date": "2026-10-08",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_008.txt",
+    "scenario_tag": "spec_fail_d50_high",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.665,
+      "bet_m2g": 6.32,
+      "fe_ppm": 57.9,
+      "moisture_wt": 0.21
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "d50_um"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 2.972,
+    "true_d50_cpk": 0.702
+  },
+  {
+    "coa_id": "COA_009",
+    "lot_id": "LOT-2026-009",
+    "date": "2026-10-09",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_009.txt",
+    "scenario_tag": "normal_standard",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.495,
+      "bet_m2g": 6.66,
+      "fe_ppm": 36.7,
+      "moisture_wt": 0.19
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.028,
+    "true_d50_cpk": 3.006
+  },
+  {
+    "coa_id": "COA_010",
+    "lot_id": "LOT-2026-010",
+    "date": "2026-10-10",
+    "supplier_id": "SUP-A",
+    "supplier_name": "한빛세라믹(주)",
+    "coa_path": "data/coa_samples/COA_010.txt",
+    "scenario_tag": "spec_fail_bet_low",
+    "traps": [],
+    "true_values": {
+      "d50_um": 0.509,
+      "bet_m2g": 5.12,
+      "fe_ppm": 45.0,
+      "moisture_wt": 0.21
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "bet_m2g"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 0.876,
+    "true_d50_cpk": 3.048
+  },
+  {
+    "coa_id": "COA_011",
+    "lot_id": "LOT-2026-011",
+    "date": "2026-10-11",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_011.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.495,
+      "bet_m2g": 6.46,
+      "fe_ppm": 45.7,
+      "moisture_wt": 0.24
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 5.018,
+    "true_d50_cpk": 2.561
+  },
+  {
+    "coa_id": "COA_012",
+    "lot_id": "LOT-2026-012",
+    "date": "2026-10-12",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_012.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.529,
+      "bet_m2g": 6.56,
+      "fe_ppm": 38.7,
+      "moisture_wt": 0.18
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 5.144,
+    "true_d50_cpk": 2.193
+  },
+  {
+    "coa_id": "COA_013",
+    "lot_id": "LOT-2026-013",
+    "date": "2026-10-13",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_013.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.488,
+      "bet_m2g": 6.64,
+      "fe_ppm": 51.9,
+      "moisture_wt": 0.17
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 4.675,
+    "true_d50_cpk": 2.218
+  },
+  {
+    "coa_id": "COA_014",
+    "lot_id": "LOT-2026-014",
+    "date": "2026-10-14",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_014.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.5,
+      "bet_m2g": 6.72,
+      "fe_ppm": 42.5,
+      "moisture_wt": 0.26
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.812,
+    "true_d50_cpk": 2.31
+  },
+  {
+    "coa_id": "COA_015",
+    "lot_id": "LOT-2026-015",
+    "date": "2026-10-15",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_015.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.492,
+      "bet_m2g": 6.81,
+      "fe_ppm": 43.8,
+      "moisture_wt": 0.2
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 2.953,
+    "true_d50_cpk": 2.371
+  },
+  {
+    "coa_id": "COA_016",
+    "lot_id": "LOT-2026-016",
+    "date": "2026-10-16",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_016.txt",
+    "scenario_tag": "normal_jp_units",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.503,
+      "bet_m2g": 6.9,
+      "fe_ppm": 46.3,
+      "moisture_wt": 0.18
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "bet_m2g"
+    ],
+    "true_bet_cpk": 2.302,
+    "true_d50_cpk": 2.451
+  },
+  {
+    "coa_id": "COA_017",
+    "lot_id": "LOT-2026-017",
+    "date": "2026-10-17",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_017.txt",
+    "scenario_tag": "spc_drift_bet_up",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.499,
+      "bet_m2g": 6.99,
+      "fe_ppm": 63.9,
+      "moisture_wt": 0.29
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "bet_m2g"
+    ],
+    "true_bet_cpk": 1.836,
+    "true_d50_cpk": 2.532
+  },
+  {
+    "coa_id": "COA_018",
+    "lot_id": "LOT-2026-018",
+    "date": "2026-10-18",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_018.txt",
+    "scenario_tag": "spc_drift_bet_up",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.512,
+      "bet_m2g": 7.09,
+      "fe_ppm": 34.0,
+      "moisture_wt": 0.2
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "bet_m2g"
+    ],
+    "true_bet_cpk": 1.487,
+    "true_d50_cpk": 2.545
+  },
+  {
+    "coa_id": "COA_019",
+    "lot_id": "LOT-2026-019",
+    "date": "2026-10-19",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_019.txt",
+    "scenario_tag": "spc_drift_bet_up",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.496,
+      "bet_m2g": 7.19,
+      "fe_ppm": 39.5,
+      "moisture_wt": 0.2
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "bet_m2g"
+    ],
+    "true_bet_cpk": 1.224,
+    "true_d50_cpk": 2.611
+  },
+  {
+    "coa_id": "COA_020",
+    "lot_id": "LOT-2026-020",
+    "date": "2026-10-20",
+    "supplier_id": "SUP-B",
+    "supplier_name": "Nippon Fine Powder Corp.",
+    "coa_path": "data/coa_samples/COA_020.txt",
+    "scenario_tag": "spc_drift_bet_up",
+    "traps": [
+      "unit_nm_for_d50",
+      "unit_wt%_for_fe",
+      "alias_SSA_LOD"
+    ],
+    "true_values": {
+      "d50_um": 0.53,
+      "bet_m2g": 7.31,
+      "fe_ppm": 37.0,
+      "moisture_wt": 0.2
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "bet_m2g"
+    ],
+    "true_bet_cpk": 1.013,
+    "true_d50_cpk": 2.347
+  },
+  {
+    "coa_id": "COA_021",
+    "lot_id": "LOT-2026-021",
+    "date": "2026-10-21",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_021.txt",
+    "scenario_tag": "normal_cn_email",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.488,
+      "bet_m2g": 6.51,
+      "fe_ppm": 31.8,
+      "moisture_wt": 0.17
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.263,
+    "true_d50_cpk": 2.885
+  },
+  {
+    "coa_id": "COA_022",
+    "lot_id": "LOT-2026-022",
+    "date": "2026-10-22",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_022.txt",
+    "scenario_tag": "spec_fail_d50_nm_trap",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_wt%_for_fe"
+    ],
+    "true_values": {
+      "d50_um": 0.655,
+      "bet_m2g": 6.36,
+      "fe_ppm": 36.8,
+      "moisture_wt": 0.28
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "d50_um"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.13,
+    "true_d50_cpk": 0.636
+  },
+  {
+    "coa_id": "COA_023",
+    "lot_id": "LOT-2026-023",
+    "date": "2026-10-23",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_023.txt",
+    "scenario_tag": "normal_cn_email",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_wt%_for_fe"
+    ],
+    "true_values": {
+      "d50_um": 0.459,
+      "bet_m2g": 6.63,
+      "fe_ppm": 42.2,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.167,
+    "true_d50_cpk": 2.025
+  },
+  {
+    "coa_id": "COA_024",
+    "lot_id": "LOT-2026-024",
+    "date": "2026-10-24",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_024.txt",
+    "scenario_tag": "spec_fail_fe_wt_trap",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_wt%_for_fe"
+    ],
+    "true_values": {
+      "d50_um": 0.524,
+      "bet_m2g": 6.39,
+      "fe_ppm": 145.0,
+      "moisture_wt": 0.25
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "fe_ppm"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.158,
+    "true_d50_cpk": 1.903
+  },
+  {
+    "coa_id": "COA_025",
+    "lot_id": "LOT-2026-025",
+    "date": "2026-10-25",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_025.txt",
+    "scenario_tag": "normal_cn_email",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_wt%_for_fe"
+    ],
+    "true_values": {
+      "d50_um": 0.494,
+      "bet_m2g": 6.54,
+      "fe_ppm": 44.0,
+      "moisture_wt": 0.17
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.291,
+    "true_d50_cpk": 2.113
+  },
+  {
+    "coa_id": "COA_026",
+    "lot_id": "LOT-2026-026",
+    "date": "2026-10-26",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_026.txt",
+    "scenario_tag": "spec_fail_moisture_ppm_trap",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.503,
+      "bet_m2g": 6.47,
+      "fe_ppm": 46.7,
+      "moisture_wt": 0.64
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "moisture_wt"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.41,
+    "true_d50_cpk": 2.187
+  },
+  {
+    "coa_id": "COA_027",
+    "lot_id": "LOT-2026-027",
+    "date": "2026-10-27",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_027.txt",
+    "scenario_tag": "normal_cn_email",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.493,
+      "bet_m2g": 6.61,
+      "fe_ppm": 46.2,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.29,
+    "true_d50_cpk": 2.196
+  },
+  {
+    "coa_id": "COA_028",
+    "lot_id": "LOT-2026-028",
+    "date": "2026-10-28",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_028.txt",
+    "scenario_tag": "spec_fail_bet_high",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.501,
+      "bet_m2g": 7.88,
+      "fe_ppm": 39.6,
+      "moisture_wt": 0.23
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "bet_m2g"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 0.814,
+    "true_d50_cpk": 2.273
+  },
+  {
+    "coa_id": "COA_029",
+    "lot_id": "LOT-2026-029",
+    "date": "2026-11-01",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_029.txt",
+    "scenario_tag": "normal_cn_email",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_wt%_for_fe",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.499,
+      "bet_m2g": 6.73,
+      "fe_ppm": 56.8,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 2.934,
+    "true_d50_cpk": 2.278
+  },
+  {
+    "coa_id": "COA_030",
+    "lot_id": "LOT-2026-030",
+    "date": "2026-11-02",
+    "supplier_id": "SUP-C",
+    "supplier_name": "SinoMat Advanced Powders Ltd.",
+    "coa_path": "data/coa_samples/COA_030.txt",
+    "scenario_tag": "spec_fail_d50_low",
+    "traps": [
+      "unstructured_email",
+      "unit_ppm_for_moisture",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.345,
+      "bet_m2g": 6.38,
+      "fe_ppm": 53.9,
+      "moisture_wt": 0.23
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "d50_um"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 2.878,
+    "true_d50_cpk": 0.716
+  },
+  {
+    "coa_id": "COA_031",
+    "lot_id": "LOT-2026-031",
+    "date": "2026-11-03",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_031.txt",
+    "scenario_tag": "spec_fail_de_fe_wt_trap",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture",
+      "unit_wt%_for_fe"
+    ],
+    "true_values": {
+      "d50_um": 0.493,
+      "bet_m2g": 6.69,
+      "fe_ppm": 128.0,
+      "moisture_wt": 0.24
+    },
+    "true_status": "FAIL",
+    "true_spec_violations": [
+      "fe_ppm"
+    ],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.602,
+    "true_d50_cpk": 2.727
+  },
+  {
+    "coa_id": "COA_032",
+    "lot_id": "LOT-2026-032",
+    "date": "2026-11-04",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_032.txt",
+    "scenario_tag": "normal_de_pipe",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.494,
+      "bet_m2g": 6.45,
+      "fe_ppm": 47.0,
+      "moisture_wt": 0.22
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 4.586,
+    "true_d50_cpk": 2.738
+  },
+  {
+    "coa_id": "COA_033",
+    "lot_id": "LOT-2026-033",
+    "date": "2026-11-05",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_033.txt",
+    "scenario_tag": "normal_de_pipe",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.487,
+      "bet_m2g": 6.51,
+      "fe_ppm": 43.1,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 4.807,
+    "true_d50_cpk": 2.742
+  },
+  {
+    "coa_id": "COA_034",
+    "lot_id": "LOT-2026-034",
+    "date": "2026-11-06",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_034.txt",
+    "scenario_tag": "normal_de_pipe",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.479,
+      "bet_m2g": 6.22,
+      "fe_ppm": 43.2,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.205,
+    "true_d50_cpk": 2.582
+  },
+  {
+    "coa_id": "COA_035",
+    "lot_id": "LOT-2026-035",
+    "date": "2026-11-07",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_035.txt",
+    "scenario_tag": "normal_de_pipe",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.471,
+      "bet_m2g": 6.54,
+      "fe_ppm": 31.8,
+      "moisture_wt": 0.23
+    },
+    "true_status": "PASS",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [],
+    "true_bet_cpk": 3.301,
+    "true_d50_cpk": 2.307
+  },
+  {
+    "coa_id": "COA_036",
+    "lot_id": "LOT-2026-036",
+    "date": "2026-11-08",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_036.txt",
+    "scenario_tag": "normal_de_pipe",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.463,
+      "bet_m2g": 6.33,
+      "fe_ppm": 51.5,
+      "moisture_wt": 0.21
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "d50_um"
+    ],
+    "true_bet_cpk": 3.14,
+    "true_d50_cpk": 1.999
+  },
+  {
+    "coa_id": "COA_037",
+    "lot_id": "LOT-2026-037",
+    "date": "2026-11-09",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_037.txt",
+    "scenario_tag": "spc_drift_d50_down",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.454,
+      "bet_m2g": 6.62,
+      "fe_ppm": 42.5,
+      "moisture_wt": 0.27
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "d50_um"
+    ],
+    "true_bet_cpk": 3.072,
+    "true_d50_cpk": 1.699
+  },
+  {
+    "coa_id": "COA_038",
+    "lot_id": "LOT-2026-038",
+    "date": "2026-11-10",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_038.txt",
+    "scenario_tag": "spc_drift_d50_down",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.444,
+      "bet_m2g": 6.31,
+      "fe_ppm": 53.8,
+      "moisture_wt": 0.24
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "d50_um"
+    ],
+    "true_bet_cpk": 2.915,
+    "true_d50_cpk": 1.428
+  },
+  {
+    "coa_id": "COA_039",
+    "lot_id": "LOT-2026-039",
+    "date": "2026-11-11",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_039.txt",
+    "scenario_tag": "spc_drift_d50_down",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture"
+    ],
+    "true_values": {
+      "d50_um": 0.434,
+      "bet_m2g": 6.55,
+      "fe_ppm": 51.2,
+      "moisture_wt": 0.21
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "d50_um"
+    ],
+    "true_bet_cpk": 2.974,
+    "true_d50_cpk": 1.202
+  },
+  {
+    "coa_id": "COA_040",
+    "lot_id": "LOT-2026-040",
+    "date": "2026-11-12",
+    "supplier_id": "SUP-D",
+    "supplier_name": "EuroOxide GmbH",
+    "coa_path": "data/coa_samples/COA_040.txt",
+    "scenario_tag": "spc_drift_d50_down",
+    "traps": [
+      "pipe_table_adjacent_spec",
+      "alias_d(0.5)_residual_moisture",
+      "unit_nm_for_d50"
+    ],
+    "true_values": {
+      "d50_um": 0.422,
+      "bet_m2g": 6.42,
+      "fe_ppm": 52.4,
+      "moisture_wt": 0.18
+    },
+    "true_status": "SPC_WARNING",
+    "true_spec_violations": [],
+    "true_spc_alert_metrics": [
+      "d50_um"
+    ],
+    "true_bet_cpk": 3.03,
+    "true_d50_cpk": 1.007
+  }
+]

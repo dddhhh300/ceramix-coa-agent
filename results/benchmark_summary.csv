@@ -1,0 +1,4 @@
+﻿Method,Total_Samples,Parse_Success_Rate_pct,Value_Unit_Accuracy_pct,Overall_Decision_Accuracy_pct,Spec_FAIL_Recall_pct,SPC_Drift_Recall_pct,Avg_Latency_sec,Total_Self_Retries
+baseline,40,25.0,25.0,25.0,40.0,0.0,0.0,0
+agent_v1,40,100.0,82.5,65.0,80.0,0.0,2.307,0
+agent_v2,40,100.0,100.0,100.0,100.0,100.0,2.208,0

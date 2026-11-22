@@ -1,0 +1,11 @@
+From: qc_export@sinomat-powder.cn
+Subject: Lab Test Report for Lot LOT-2026-021 (Shipment 2026-10-21)
+
+Dear Ceramix IQC Team,
+Please find below the final lab inspection data for 800 kg of CMX-YSZ-05 powder.
+Laser particle analyzer showed D10 at 0.24 um, Median Dia. (d50) = 0.488 micron, and D90 = 0.92 um. BET Surface measured via 5-point method came out to 6.51 m^2/g.
+For trace elements by ICP: Al 18 mg/kg, Na 24 mg/kg, and Fe impurity is 31.8 mg/kg.
+Karl-Fischer H2O content before vacuum sealing was 1700 ppm.
+(Reference customer limits: D50 0.40-0.60 um, BET 5.50-7.50 m2/g, Fe max 100 ppm)
+Best regards,
+Li Wei, SinoMat QC Dept.

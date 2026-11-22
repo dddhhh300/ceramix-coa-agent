@@ -1,0 +1,35 @@
+[
+  {
+    "Method": "baseline",
+    "Total_Samples": 40,
+    "Parse_Success_Rate_pct": 25.0,
+    "Value_Unit_Accuracy_pct": 25.0,
+    "Overall_Decision_Accuracy_pct": 25.0,
+    "Spec_FAIL_Recall_pct": 40.0,
+    "SPC_Drift_Recall_pct": 0.0,
+    "Avg_Latency_sec": 0.0,
+    "Total_Self_Retries": 0
+  },
+  {
+    "Method": "agent_v1",
+    "Total_Samples": 40,
+    "Parse_Success_Rate_pct": 100.0,
+    "Value_Unit_Accuracy_pct": 82.5,
+    "Overall_Decision_Accuracy_pct": 65.0,
+    "Spec_FAIL_Recall_pct": 80.0,
+    "SPC_Drift_Recall_pct": 0.0,
+    "Avg_Latency_sec": 2.307,
+    "Total_Self_Retries": 0
+  },
+  {
+    "Method": "agent_v2",
+    "Total_Samples": 40,
+    "Parse_Success_Rate_pct": 100.0,
+    "Value_Unit_Accuracy_pct": 100.0,
+    "Overall_Decision_Accuracy_pct": 100.0,
+    "Spec_FAIL_Recall_pct": 100.0,
+    "SPC_Drift_Recall_pct": 100.0,
+    "Avg_Latency_sec": 2.208,
+    "Total_Self_Retries": 0
+  }
+]

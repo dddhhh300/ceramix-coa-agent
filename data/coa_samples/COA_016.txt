@@ -1,0 +1,16 @@
+CERTIFICATE OF INSPECTION - NIPPON FINE POWDER CORP.
+Material Code: NFP-YSZ5 (For Ceramix Materials)
+Batch / Lot ID: LOT-2026-016   Date of Issue: 2026-10-16
+Net Weight: 1200 kg   Packing: 25kg Fiber Drum x 48
+
+[Physical Properties]
+  * Particle Size Distribution (Laser Diffraction):
+      D10 = 261.6 nm, Mean Particle Size (D50) = 503.0 nm, D90 = 845.0 nm
+  * Specific Surface Area (SSA, N2 adsorption): 6.90 m2/g
+
+[Chemical Purity & Moisture]
+  * Iron impurity (Fe, ICP-OES): 0.00463 wt%
+  * Sodium (Na): 0.0021 wt%   |   Silicon (Si): 0.0034 wt%
+  * Loss on Drying (LOD, 110C 2hr): 0.18 %
+
+QA Manager: T. Sato (Authorized Digital Signature)

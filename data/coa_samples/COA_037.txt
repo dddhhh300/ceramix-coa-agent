@@ -1,0 +1,9 @@
+EUROOXIDE GMBH - ANALYTICAL QUALITY REPORT (DIN EN 10204 3.1)
+Batch No: LOT-2026-037 ; Release Date: 2026-11-09 ; Product: Ceramic Powder YSZ-05
+Parameter | Customer Spec | Measured Result | Unit
+Particle Size d(0.5) | 0.40 - 0.60 um | 454.0 | nm
+Surface Area (N2-BET) | 5.50 - 7.50 m2/g | 6.62 | m²/g
+Fe content (ICP) | max 100 ppm | 42.5 | ppm
+Residual Moisture | max 0.50 wt% | 0.27 | wt.%
+Tap Density | min 1.10 g/cm3 | 1.24 | g/cm3
+Approved by: Dr. H. Weber, Quality Assurance
